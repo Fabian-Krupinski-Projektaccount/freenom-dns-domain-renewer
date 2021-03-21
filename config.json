@@ -1,0 +1,21 @@
+{
+    "username":"USER",
+    "password":"PW",
+    "domains":[
+        {
+            "domain":"domain1.tk",
+            "records":[
+                "",
+                "WWW"
+            ]
+        },
+        {
+            "domain":"domain2.tk",
+            "records":[
+                "",
+                "sub1",
+                "sub2"
+            ]
+        }
+    ]
+}
